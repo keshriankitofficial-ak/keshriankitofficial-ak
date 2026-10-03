@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Ankit Kumar Keshri 👋
 
-<!--
-**keshriankitofficial-ak/keshriankitofficial-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student at Mewar University
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🌱 Currently learning Python and C++
+- 🧠 Improving Data Structures & Algorithms
+- 🔧 Learning Git and GitHub
+- 📱 Building Android projects
+- 💡 Interested in Software Development
+
+🛠️ Skills
+
+- Python
+- C++
+- Git
+- GitHub
+- Data Structures
+- Algorithms
+- Object-Oriented Programming (OOP)
+- Android Development
+
+📌 Featured Project
+
+Tic Tac Toe Android Game
+
+- 2 Player Mode
+- VS Computer Mode
+- Multiple Difficulty Levels
+- Game Statistics & History
+- Settings and Interactive UI
+
+🎯 Currently Learning
+
+Python • C++ • Data Structures • Algorithms • GitHub • Android Development
+
+---
+
+⭐ Thanks for visiting my profile!
